@@ -2,7 +2,7 @@
 
 [（伝達関数に基づく制御）](https://github.com/Hiroshi-Okajima/control-education01-transferfunction)
 
-### 演習問題
+### 演習問題（PDF）
 
 [演習1：モデル化](https://github.com/Hiroshi-Okajima/control-education02-stateequation/blob/main/1.pdf)
 
