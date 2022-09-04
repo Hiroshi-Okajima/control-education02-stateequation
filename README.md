@@ -16,6 +16,8 @@
 
 [![image](https://user-images.githubusercontent.com/112537733/188294740-1b90c606-2f93-48fd-99d2-7fb5c88509ef.png)](https://youtu.be/B4sQMW6f6u0)
 
+[演習1：モデル化](https://github.com/Hiroshi-Okajima/control-education02-stateequation/blob/main/1.pdf)
+
 [![image](https://user-images.githubusercontent.com/112537733/188294748-d4800a01-6ad6-4849-9a69-6ff4395e522c.png)](https://youtu.be/qj20sB85BpE)
 
 [![image](https://user-images.githubusercontent.com/112537733/188294756-7b40b07c-f555-475a-928f-e742d35d3bcb.png)](https://youtu.be/k8z132MGBiA)
@@ -26,13 +28,19 @@
 
 [![image](https://user-images.githubusercontent.com/112537733/188296068-ca8c1868-cda5-41e9-802a-e4dc1d486137.png)](https://youtu.be/57wPII1__f4)
 
+[演習2：可制御・可観測・安定性](https://github.com/Hiroshi-Okajima/control-education02-stateequation/blob/main/2.pdf)
+
 ### 状態フィードバック制御器の設計
 
 [![image](https://user-images.githubusercontent.com/112537733/188294758-e39c47f5-bde1-4055-8f1b-975fa17129b4.png)](https://youtu.be/MUrI469J_Oo)
 
 [![image](https://user-images.githubusercontent.com/112537733/188294769-c0e0e6eb-eb78-43fb-972d-87cb1b3c7004.png)](https://youtu.be/yiFgI6Oos88)
 
+[演習3：極配置](https://github.com/Hiroshi-Okajima/control-education02-stateequation/blob/main/3.pdf)
+
 [![image](https://user-images.githubusercontent.com/112537733/188294770-1482d2c5-b934-482c-979c-fcaac4b70f37.png)](https://youtu.be/8GbKBDU2eIw)
+
+[演習4：最適レギュレータ](https://github.com/Hiroshi-Okajima/control-education02-stateequation/blob/main/4.pdf)
 
 [![image](https://user-images.githubusercontent.com/112537733/188294796-9b2a3c37-37ad-4d7d-a857-0603a9ac0fe4.png)](https://youtu.be/nX44f994LAY)
 
