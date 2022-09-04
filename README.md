@@ -23,6 +23,8 @@
 
 [![image](https://user-images.githubusercontent.com/112537733/188294791-7617c920-26bb-4294-a995-988dafca0c2e.png)](https://youtu.be/-RPNpDAIkG0)
 
+[![image](https://user-images.githubusercontent.com/112537733/188296068-ca8c1868-cda5-41e9-802a-e4dc1d486137.png)](https://youtu.be/57wPII1__f4)
+
 ### 状態フィードバック制御器の設計
 
 [![image](https://user-images.githubusercontent.com/112537733/188294758-e39c47f5-bde1-4055-8f1b-975fa17129b4.png)](https://youtu.be/MUrI469J_Oo)
