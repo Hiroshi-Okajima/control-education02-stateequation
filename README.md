@@ -10,6 +10,7 @@
 
 [![image](https://user-images.githubusercontent.com/112537733/188294717-0a3487b1-2424-455e-a674-b7b55d53e6f6.png)](https://youtu.be/SD5N3Fa3IkM)
 
+[![image](https://user-images.githubusercontent.com/112537733/188296790-d8fa7df4-5f4f-4fce-b148-e433cb7ed4dd.png)](https://youtu.be/AZiT1oEemis)
 
 ### 状態方程式に基づく制御基礎
 
